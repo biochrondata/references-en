@@ -85,3 +85,5 @@
 | https://www.biochron.net/en/hashimoto-thyroiditis-symptoms-treatment-post19 | 11 Evidence-Based Facts About Hashimoto's Thyroiditis \(Symptoms & Treatment 2025\) |
 | https://www.biochron.net/en/iodine-deficiency-and-treatments-post17 | 9 Proven Signs of Iodine Deficiency \(and How to Fix It\) |
 | https://www.biochron.net/en/hypothyroidism-symptoms-treatment-post13 | 11 Scientific Steps to Hypothyroidism: Symptoms & Treatment \(TSH & Diet\) |
+
+## [Source BioChrone](https://www.biochron.net/en/)
