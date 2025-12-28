@@ -1,6 +1,6 @@
 | url | title |
 | :--- | :--- |
-| https://www.biochron.net/en/cashews-health-benefits-post180 | 13 Evidence-Based Health Benefits of Cashews \(2026\) |
+| (https://www.biochron.net/en/cashews-health-benefits-post180) | 13 Evidence-Based Health Benefits of Cashews \(2026\) |
 | https://www.biochron.net/en/camu-camu-benefits-post178 | 9 Evidence-Based Camu Camu Benefits \(2026 Guide\) |
 | https://www.biochron.net/en/brazil-nuts-selenium-benefits-post176 | 8 Evidence-Based Brazil Nuts Selenium Benefits \(2026\) |
 | https://www.biochron.net/en/blue-spirulina-benefits-post174 | 8 Evidence-Based Blue Spirulina Benefits \(2026\) |
